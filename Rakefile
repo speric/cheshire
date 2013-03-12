@@ -17,7 +17,7 @@ Jeweler::Tasks.new do |gem|
   gem.name = "cheshire"
   gem.homepage = "http://github.com/speric/cheshire"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
+  gem.summary = %Q{Join method return values.}
   gem.description = %Q{TODO: longer description of your gem}
   gem.email = "eric@prudentiadigital.com"
   gem.authors = ["speric"]

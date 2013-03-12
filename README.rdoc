@@ -14,6 +14,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2013 speric. See LICENSE.txt for
-further details.
-
+Copyright (c) 2013 speric. See LICENSE.txt for further details.
